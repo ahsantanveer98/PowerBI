@@ -1,14 +1,18 @@
 # Renewable Energy Dashboard
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection
+### Dashboard Link : [https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection](https://github.com/ahsantanveer98/PowerBI/blob/main/Renewable%20Energy.pbix)
 
 ## Problem Statement
 
-This dashboard helps the airlines understand their customers better. It helps the airlines know if their customers are satisfied with their services. Through different ratings, they get to know their improvement area, & thus they can improve their services by identifying these area. It also lets them know the average delay & departure time, thus since by using this dashboard they have identified this problem, they can further work on factors responsible for these unwanted delays.
+I developed a comprehensive Power BI dashboard that visualizes renewable energy sources across EU countries, presented in percentage terms. The dashboard provides an intuitive and interactive view of the renewable energy landscape, enabling users to easily compare the share of various renewable energy sources, such as wind, solar, hydro, and biomass, across different European countries.
 
-Since, number of neutral/dissatisfied customers (almost 57 %) are more than satisfied customers (around 43 %), thus in all they must work on improving their services. 
+Key features include:
 
-Also since average delay in arrival & departure both is 15 minutes, thus they must try to reduce it.
+Country-wise Breakdown: Users can select individual countries to view detailed insights into the percentage distribution of each renewable energy source.
+Dynamic Filters: Interactive filters allow users to explore data by specific years or energy types, facilitating a granular analysis of trends and changes over time.
+Visualizations: The dashboard includes interactive maps, bar charts, and pie charts that effectively communicate the proportion of renewable energy sources in each country, highlighting leaders and laggards in renewable energy adoption.
+Renewable Energy Sources in Transport & Electricity: Analysis shows how the share of renewable energy sources has evolved, helping users understand the use in Transport & Electricity sector across the EU.
+This dashboard not only supports data-driven decision-making but also enhances awareness of renewable energy distribution and promotes strategic planning for future energy initiatives.
 
 Snap of Dashboard,
 
